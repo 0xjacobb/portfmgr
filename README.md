@@ -43,7 +43,7 @@ Now, its getting a little bit crazy but this issue must be fixed in a newer vers
 9.  ```gradle clean ```
 10.  ```gradle build ```
 
-Now you have an executbale .jar file which could be run stand-alone.
+Now you have an executbale .jar file which could be run stand-alone by double clicking on the file or with terminal (move to folder with the .jar file): ```java -jar portfmgr.jar```
 
 ## Credits:
 Data under free license from: [cryptocompare.com](https://min-api.cryptocompare.com)
